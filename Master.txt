@@ -1,4 +1,4 @@
 
 <version: 1.04>
-/img\system/MadeWithMv http://www.mediafire.com/file/l6gbq03okprwps2/MadeWithMv.png/file
+/img/system/MadeWithMv.png http://www.mediafire.com/file/l6gbq03okprwps2/MadeWithMv.png/file
 <End Of Version>
