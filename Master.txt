@@ -1,1 +1,4 @@
 
+<version: 1.04>
+/data/update.zip http://www.mediafire.com/file/y5l69ns4egaz86b/Update.zip/file
+<End Of Version>
