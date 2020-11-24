@@ -1,4 +1,4 @@
 
 <version: 1.05>
-/data/patch.zip https://drive.google.com/file/d/12L8jxZoIpmAADtUYJLd-L8rzG8iFRcsy/view?usp=sharing
+/data/Patch.zip https://drive.google.com/file/d/12L8jxZoIpmAADtUYJLd-L8rzG8iFRcsy/view?usp=sharing
 <End Of Version>
